@@ -1,0 +1,3 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const ADD_INGREDIENT = "ADD_INGREDIENT";
+export const REMOVE_INGREDIENT = "REMOVE_INGREDIENT";
